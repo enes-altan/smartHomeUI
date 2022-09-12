@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dashboard/gas-fired-combi-boiler.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dashboard/lighting-sockets.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/conf.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/db.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/version.php" charset="UTF-8" />
+  </component>
+</project>
